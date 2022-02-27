@@ -1,0 +1,28 @@
+.cc{
+    background: rgb(228, 127, 114);
+    background: radial-gradient(circle, rgb(152, 203, 214) 0%, rgb(104, 228, 189) 100%);
+
+    margin-bottom: 10px;
+}
+
+.r1 >P{
+    text-align: center;
+    font-size: 25px;
+}
+.bt{
+    margin: 10px;
+}
+
+.rr{
+    height: 100px;
+    border: solid whitesmoke;
+    margin: 5px;
+}
+
+.nav{
+    margin: 10px
+}
+
+.bbb{
+    padding: 3px
+}
